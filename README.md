@@ -1,4 +1,4 @@
 # Demo-Project
 First Repository
 <br>
-Author - Khushboo
+Author - Khushboo Kumari
